@@ -1,3 +1,9 @@
+#Android官方MVP架构示例项目解析
+>前段时间Google在Github推出了一个项目，专门展示Android引用各种各样的MVP架构，算是官方教程了。趁着还新鲜，让我们来抛砖引玉一探究竟，看看在Google眼里什么样算是好的MVP架构。
+App架构在Android开发者中一直是讨论比较多的一个话题，目前讨论较多的有MVP、MVVM、Clean这三种。google官方对于架构的态度一直是非常开放的，让开发者自主选择组织和架构app的方式，期望能留给开发者更多的灵活性。
+[http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0413/4139.html](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0413/4139.html)
+
+
 # Android Architecture Blueprints [beta]
 
 [![Join the chat at https://gitter.im/googlesamples/android-architecture](https://badges.gitter.im/googlesamples/android-architecture.svg)](https://gitter.im/googlesamples/android-architecture?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
